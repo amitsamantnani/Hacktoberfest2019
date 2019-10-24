@@ -7,6 +7,11 @@
 - Github: https://github.com/wajahatkarim3
 ***
 
+### Amit Samantnani
+- Photo: https://avatars2.githubusercontent.com/u/56959275?s=400&v=4
+-  location: India
+- Bio: Student | keen to learn about programming
+
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
